@@ -5,7 +5,7 @@ function Navbar({Toggle}) {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-danger">
             <div className='container-fluid'>
-                <b className="navbar-brand d-none d-md-block text-dark" href="#">Hello Shahrukh</b>
+                <b className="navbar-brand d-none d-md-block text-dark" href="#">Hello Priyanka</b>
                 <a className="navbar-brand d-block d-md-none" onClick={Toggle}>
                     <i className="bi bi-justify fs-3"></i>
                 </a>
